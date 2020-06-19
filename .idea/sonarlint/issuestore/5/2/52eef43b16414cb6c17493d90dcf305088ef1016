@@ -1,20 +1,20 @@
 
-€	java:S116"_Rename this field "ImageView_Bot_Bar_02" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÚÄëşÿÿÿÿ8´½Û–¬.
 €	java:S116"_Rename this field "ImageView_Bot_Bar_03" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ì©êùÿÿÿÿ8´½Û–¬.
-t	java:S116"XRename this field "Button_Search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º×“í8èçæ–¬.
-y
-java:S1450"\Remove the "Button_Search" field and declare it as a local variable in the relevant methods.(º×“í8…¨ç–¬.
-„
-java:S1450"bRemove the "ImageView_Banner_02" field and declare it as a local variable in the relevant methods.(ØÉóêúÿÿÿÿ8¢ñõ•¬.
-€	java:S116"_Rename this field "ImageView_Bot_Bar_01" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¯şùÿÿÿÿ8´½Û–¬.
-…
-java:S1450"cRemove the "ImageView_Bot_Bar_02" field and declare it as a local variable in the relevant methods.(ŒÚÄëşÿÿÿÿ8†ÏÜ–¬.
-	java:S116"eRename this field "Button_Search_Store_Search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—„®Æ8ˆŒÖ–¬.
-	java:S116"^Rename this field "ImageView_Banner_02" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÉóêúÿÿÿÿ8¢ñõ•¬.
-†
-java:S1450"iRemove the "Button_Search_Store_Search" field and declare it as a local variable in the relevant methods.(—„®Æ8©ğÖ–¬.
-…
-java:S1450"cRemove the "ImageView_Bot_Bar_01" field and declare it as a local variable in the relevant methods.(’¯şùÿÿÿÿ8†ÏÜ–¬.
-‚	java:S116"aRename this field "ImageView_Search_Store" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í“¿ãûÿÿÿÿ8Ñ÷Ç–¬.
 …
 java:S1450"cRemove the "ImageView_Bot_Bar_03" field and declare it as a local variable in the relevant methods.(¡ì©êùÿÿÿÿ8†ÏÜ–¬.
+†
+java:S1450"iRemove the "Button_Search_Store_Search" field and declare it as a local variable in the relevant methods.(—„®Æ8©ğÖ–¬.
+‚	java:S116"aRename this field "ImageView_Search_Store" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í“¿ãûÿÿÿÿ8Ñ÷Ç–¬.
+t	java:S116"XRename this field "Button_Search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º×“í8èçæ–¬.
+„
+java:S1450"bRemove the "ImageView_Banner_02" field and declare it as a local variable in the relevant methods.(ØÉóêúÿÿÿÿ8¢ñõ•¬.
+…
+java:S1450"cRemove the "ImageView_Bot_Bar_01" field and declare it as a local variable in the relevant methods.(’¯şùÿÿÿÿ8†ÏÜ–¬.
+€	java:S116"_Rename this field "ImageView_Bot_Bar_01" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¯şùÿÿÿÿ8´½Û–¬.
+y
+java:S1450"\Remove the "Button_Search" field and declare it as a local variable in the relevant methods.(º×“í8…¨ç–¬.
+	java:S116"eRename this field "Button_Search_Store_Search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—„®Æ8ˆŒÖ–¬.
+…
+java:S1450"cRemove the "ImageView_Bot_Bar_02" field and declare it as a local variable in the relevant methods.(ŒÚÄëşÿÿÿÿ8†ÏÜ–¬.
+	java:S116"^Rename this field "ImageView_Banner_02" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÉóêúÿÿÿÿ8¢ñõ•¬.
+€	java:S116"_Rename this field "ImageView_Bot_Bar_02" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÚÄëşÿÿÿÿ8´½Û–¬.
