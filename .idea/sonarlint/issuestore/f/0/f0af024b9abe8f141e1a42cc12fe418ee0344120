@@ -1,0 +1,15 @@
+
+	java:S116"^Rename this field "ImageView_Banner_01" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ïşòşÿÿÿÿ8İúµ¾¬.
+„
+java:S1450"bRemove the "ImageView_Banner_01" field and declare it as a local variable in the relevant methods.(‘ïşòşÿÿÿÿ8•¬¸¾¬.
+…
+java:S1450"cRemove the "ImageView_Bot_Bar_02" field and declare it as a local variable in the relevant methods.(ŒÚÄëşÿÿÿÿ8Øÿ·¾¬.
+…
+java:S1450"cRemove the "ImageView_Bot_Bar_01" field and declare it as a local variable in the relevant methods.(’¯şùÿÿÿÿ8Øÿ·¾¬.
+€	java:S116"_Rename this field "ImageView_Bot_Bar_03" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ì©êùÿÿÿÿ8İúµ¾¬.
+…
+java:S1450"cRemove the "ImageView_Bot_Bar_03" field and declare it as a local variable in the relevant methods.(¡ì©êùÿÿÿÿ8Øÿ·¾¬.
+€	java:S116"_Rename this field "ImageView_Bot_Bar_01" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¯şùÿÿÿÿ8İúµ¾¬.
+€	java:S116"_Rename this field "ImageView_Bot_Bar_02" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÚÄëşÿÿÿÿ8İúµ¾¬.
+T
+java:S1128"2Remove this unused import 'android.widget.Button'.(²òıÿÿÿÿ8İúµ¾¬.
