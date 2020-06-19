@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CustomerServiceActivity">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:scaleType="fitXY"
+                android:layout_gravity="center"
+                android:layout_margin="20dp"
+                android:src="@drawable/imageview_banner_01"
+                android:id="@+id/ImageView_Banner_01"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="440dp"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="10dp"
+                    android:textSize="25dp"
+                    android:text="고객센터"
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="평소 불편사항을 '글쓰기' 버튼을 통해 등록해주세요"
+                    android:textSize="18dp"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="280dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="15dp"
+                    android:layout_gravity="left"
+                    android:text="Q. 매장위치의 정보가 달라요\n(스타벅스 서울 마포구 양화로 163 >> 서울 마포구 양화로 165)\nA.수정했습니다 감사합니다!\t\t\t\t\t- 06/19 7:15"
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="15dp"
+                    android:layout_gravity="left"
+                    android:text="Q. 메뉴의 사진이 달라요 \n(투썸-애플그린티)->(투썸-얼그레이티) \nA.수정했습니다 감사합니다!\t\t\t\t\t- 06/19 12:05"
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="15dp"
+                    android:layout_gravity="left"
+                    android:text="Q. 메뉴의 가격이 달라요 \n(스타벅스-딸기 요거트 블렌디드 5900원 -> 6100원) \nA.수정했습니다 감사합니다!\t\t\t\t\t- 06/20 1:35"
+                    android:textStyle="bold"/>
+
+
+            </LinearLayout>
+
+            <Button
+                android:layout_width="280dp"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#ffffff"
+                android:background="@color/colorPrimaryDark"
+                android:text="글쓰기"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="center"
+                android:id="@+id/Button_Customer_Service"/>
+
+
+
+
+
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="10dp"
+                android:layout_height="30dp"
+                android:layout_weight="1"
+                android:layout_gravity="center"
+                android:layout_marginHorizontal="40dp"
+                android:src="@drawable/imageview_bot_bar_01"
+                android:id="@+id/ImageView_Bot_Bar_01"/>
+
+            <ImageView
+                android:layout_width="10dp"
+                android:layout_height="30dp"
+                android:layout_weight="1"
+                android:layout_gravity="center"
+                android:layout_marginHorizontal="40dp"
+                android:src="@drawable/imageview_bot_bar_02"
+                android:id="@+id/ImageView_Bot_Bar_02"/>
+
+            <ImageView
+                android:layout_width="10dp"
+                android:layout_height="30dp"
+                android:layout_weight="1"
+                android:layout_gravity="center"
+                android:layout_marginHorizontal="40dp"
+                android:src="@drawable/imageview_bot_bar_03"
+                android:id="@+id/ImageView_Bot_Bar_03"/>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

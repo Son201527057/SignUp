@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.signup">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".Banner03Activity"></activity>
+        <activity android:name=".CustomerPostingActivity" />
+        <activity android:name=".SearchDessert02" />
+        <activity android:name=".SearchDessert01" />
+        <activity android:name=".SearchTea02" />
+        <activity android:name=".SearchTea01" />
+        <activity android:name=".SearchAde02" />
+        <activity android:name=".SearchAde01" />
+        <activity android:name=".SearchCoffee02" />
+        <activity android:name=".SearchCoffee01" />
+        <activity android:name=".Banner02Activity" />
+        <activity android:name=".Banner01Activity" />
+        <activity android:name=".CustomerServiceActivity" />
+        <activity android:name=".RecommendMenu03Activity" />
+        <activity android:name=".RecommendMenu02Activity" />
+        <activity android:name=".RecommendMenu01Activity" />
+        <activity android:name=".PopularityMenu03Activity" />
+        <activity android:name=".PopularityMenu02Activity" />
+        <activity android:name=".PopularityMenu01Activity" />
+        <activity android:name=".SearchStoreActivity" />
+        <activity android:name=".SearchActivity" />
+        <activity android:name=".MainHomeActivity" />
+        <activity android:name=".SignUpActivity" />
+        <activity android:name=".LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
